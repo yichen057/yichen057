@@ -49,4 +49,4 @@ A JavaFX desktop search application for indexing local project documentation, ra
 
 ## 📚 Learning in public
 
-🧩 [**LeetCode Notes**](https://github.com/yichen057/Leetcode-Notes) — 199+ Python solutions and bilingual interview notes organized by algorithm and data structure.
+🧩 [**LeetCode Notes**](https://github.com/yichen057/Leetcode-Notes) — Python solutions and bilingual interview notes organized by algorithm and data structure.
