@@ -1,44 +1,52 @@
 # Hi, I'm Yichen Liu 👋
 
-Software engineer with product management experience, focused on backend systems, reliable APIs, and practical AI applications.
+**Software engineer with product management experience.**
 
-## Featured Projects
+I build reliable backend systems and practical AI products. My product background helps me turn ambiguous ideas into scoped, testable software—from payment infrastructure to evidence-grounded research agents.
 
-### [Argus — Investment Intelligence](https://github.com/yichen057/argus-investment-intelligence)
+I care about clear system boundaries, explicit trade-offs, and software that another person can actually run.
 
-A local-first, LLM-assisted investment research and portfolio intelligence platform with evidence-grounded RAG, deterministic portfolio analytics, citation validation, and auditable execution.
+---
 
-**Tech:** Python, FastAPI, React, TypeScript, PostgreSQL, pgvector, Docker, RAG
+## 🚀 Featured work
 
-### [PayNova Escrow](https://github.com/yichen057/paynova-escrow)
+🧭 [**Argus — Investment Intelligence**](https://github.com/yichen057/argus-investment-intelligence)  
+Local-first, LLM-assisted investment research and portfolio intelligence with evidence-grounded RAG, deterministic portfolio analytics, citation validation, and auditable execution.  
+`Python · FastAPI · React · TypeScript · PostgreSQL · pgvector · Docker · RAG`
 
-A payment escrow sandbox built as a modular Spring Boot application, with a double-entry ledger, idempotent money APIs, pessimistic locking, transactional outbox processing, JWT/RBAC security, PostgreSQL, Testcontainers, Docker, and CI.
+💳 [**PayNova Escrow**](https://github.com/yichen057/paynova-escrow)  
+A payment escrow sandbox designed around double-entry accounting, idempotent money APIs, pessimistic locking, transactional outbox processing, and JWT/RBAC security.  
+`Java 17 · Spring Boot · PostgreSQL · Flyway · Testcontainers · Docker · GitHub Actions`
 
-**Tech:** Java 17, Spring Boot, PostgreSQL, Flyway, Docker, GitHub Actions
+🎧 [**Music Companion**](https://github.com/yichen057/Music-Companion)  
+An explainable music discovery application with content-based recommendations, listening-history recaps, sheet-music matching, optional Gemini explanations, and deterministic fallbacks.  
+`Python · Gemini API · Recommendation Systems · Retrieval · pytest`
 
-### [Music Companion](https://github.com/yichen057/Music-Companion)
+---
 
-An explainable music discovery application with content-based recommendations, listening-history analysis, monthly and yearly recaps, sheet-music matching, optional Gemini-powered explanations, deterministic fallbacks, and automated tests.
+## 🤝 Team project
 
-**Tech:** Python, Gemini API, recommendation systems, retrieval, pytest
+🔎 **KnowRetro**  
+A JavaFX desktop search application for indexing local project documentation, ranking results with simplified TF-IDF, generating highlighted previews, and caching documents with an LRU strategy.
 
-### KnowRetro — Team Project
+**My contribution:** Originated the project idea and helped define its scope; coordinated team workflow and documentation; built the core search backend (`SearchService`, `SearchIndexModel`, `DocumentCache`, `DocumentEntry`, and `SearchResult`); performed end-to-end testing; and supported UI integration.
 
-A JavaFX desktop application for indexing and searching local project documentation with TF-IDF ranking, highlighted result previews, and LRU document caching.
+`Java · JavaFX · Maven · TF-IDF · LRU Caching`
 
-**My contributions:** Originated the project idea and helped define its scope; coordinated the team workflow and documentation; built the core search backend (`SearchService`, `SearchIndexModel`, `DocumentCache`, `DocumentEntry`, and `SearchResult`); performed end-to-end integration testing; and contributed to the initial UI design and backend–frontend integration.
+> The original team repository is currently private. Source access is available upon request.
 
-**Tech:** Java, JavaFX, Maven, TF-IDF, LRU caching
+---
 
-> The team repository is currently private. Source access is available upon request.
-
-## Engineering Focus
+## 🧰 What I work on
 
 - Backend and API design
-- Data modeling, concurrency, and reliability
-- Search and recommendation systems
-- Automated testing and CI/CD
+- Data modeling, concurrency, and reliable transaction systems
+- RAG, search, recommendation systems, and LLM evaluation
+- Automated testing, CI/CD, and observable software
+- Product scoping and cross-functional delivery
 
-## Learning & Practice
+---
 
-- [LeetCode Notes](https://github.com/yichen057/Leetcode-Notes) — 199+ Python solutions and bilingual interview notes organized by algorithm and data structure.
+## 📚 Learning in public
+
+🧩 [**LeetCode Notes**](https://github.com/yichen057/Leetcode-Notes) — 199+ Python solutions and bilingual interview notes organized by algorithm and data structure.
