@@ -1,10 +1,10 @@
 # Hi, I'm Yichen Liu 👋
 
-**Software engineer with product management experience.**
+**I turn everyday friction into practical products.**
 
-I build reliable backend systems and practical AI products. My product background helps me turn ambiguous ideas into scoped, testable software—from payment infrastructure to evidence-grounded research agents.
+I pay attention to the repetitive, confusing, or inefficient moments in daily life that could work better. I turn those observations into things I can build, using each project to test ideas, learn new technologies, and create solutions that make life more efficient and enjoyable.
 
-I care about clear system boundaries, explicit trade-offs, and software that another person can actually run.
+My background spans product management and hands-on software development, helping me move from identifying a need to shaping, building, and validating a solution.
 
 ---
 
@@ -50,3 +50,9 @@ A JavaFX desktop search application for indexing local project documentation, ra
 ## 📚 Learning in public
 
 🧩 [**LeetCode Notes**](https://github.com/yichen057/Leetcode-Notes) — Python solutions and bilingual interview notes organized by algorithm and data structure.
+
+---
+
+## 🔗 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/liuyichen/)
